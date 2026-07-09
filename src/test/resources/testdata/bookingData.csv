@@ -1,0 +1,6 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Dennis,Ritchie,500,true,2026-07-10,2026-07-15,Breakfast
+Peter,Parker,750,false,2026-07-12,2026-07-20,Lunch
+Tony,Stark,1200,true,2026-08-01,2026-08-05,Dinner
+Bruce,Wayne,950,true,2026-09-10,2026-09-15,None
+Clark,Kent,600,false,2026-10-01,2026-10-08,Extra Bed
